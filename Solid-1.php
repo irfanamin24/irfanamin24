@@ -42,3 +42,5 @@ Route::get('/', function(){
 
     return Json::from($data);
 });
+
+?>
